@@ -1,0 +1,1 @@
+Basit bir metin bçimlendirma programý
